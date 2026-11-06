@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pymongo
+pydantic-settings
+email-validator
+python-multipart
+rapidfuzz
+langchain-core
+langchain-google-genai
+langchain-groq
+apscheduler
+pyjwt
+pytest
